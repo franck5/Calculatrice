@@ -9,3 +9,7 @@ substaction = function(a, b) {
 	console.log(a - b);
 };
 substaction(10, 5);
+multiplication = function(a, b) {
+	console.log(a / b);
+};
+multiplication(20, 5);
